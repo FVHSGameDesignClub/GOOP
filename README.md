@@ -1,3 +1,1 @@
 GOOP
-
-Gwynn is syck
